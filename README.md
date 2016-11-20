@@ -1,2 +1,2 @@
-# ajax
-An AJax Tutorial from the net ninja
+# asyncJS
+Async Javascript Tutorial
