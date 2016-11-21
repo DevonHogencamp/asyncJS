@@ -1,4 +1,6 @@
 window.onload = function() {
+    /*  Basic Async Code  */
+
     // Create our http request
     var http = new XMLHttpRequest();
 
